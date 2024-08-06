@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "331226319381",
+    "project_id": "tugaspraktikum9-4e068",
+    "storage_bucket": "tugaspraktikum9-4e068.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331226319381:android:73e3ed7addfc38cdb19c1c",
+        "android_client_info": {
+          "package_name": "com.example.tugaspraktikumfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "331226319381-62jvrgd530hai6qeri1akcoro3ogja94.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7uMo30yd_gh6Ss1lXur25coAzhH7kHog"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "331226319381-62jvrgd530hai6qeri1akcoro3ogja94.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

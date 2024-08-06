@@ -1,0 +1,17 @@
+<resources>
+
+    <string name="app_name">TugasPraktikumFireBase</string>
+    <string name="title">Judul</string>
+    <string name="description">Deskripsi</string>
+    <string name="save">Simpan</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="uid">Uid</string>
+    <string name="login">Masuk</string>
+    <string name="signup">Daftar</string>
+    <string name="logout">Keluar</string>
+    <string name="welcome">Selamat Datang,</string>
+    <string name="add_note">Tambah Note</string>
+    <string name="webclient">331226319381-62jvrgd530hai6qeri1akcoro3ogja94.apps.googleusercontent.com</string>
+    <string name="hapus">HAPUS</string>
+</resources>
